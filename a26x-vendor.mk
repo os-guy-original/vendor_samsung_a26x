@@ -1396,7 +1396,7 @@ PRODUCT_PACKAGES += \
     androidx.window.sidecar \
     com.android.extensions.appfunctions \
     com.android.hotwordenrollment.common.util \
-    android.hardware.drm-service.clearkey \
+    android.hardware.drm-service.clearkey_samsung \
     android.hardware.neuralnetworks-service-enn \
     android.hardware.sensors@2.0-multihal \
     android.hardware.wifi.hostapd \
