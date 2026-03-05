@@ -1398,7 +1398,7 @@ PRODUCT_PACKAGES += \
     com.android.hotwordenrollment.common.util \
     android.hardware.drm-service.clearkey_samsung \
     android.hardware.neuralnetworks-service-enn \
-    bluetooth_audio \
+    vendor_samsung_bluetooth_audio \
     manifest_android.hardware.drm-service.widevine \
     power-samsung \
     st.android.hardware.nfc@1.2-service \
