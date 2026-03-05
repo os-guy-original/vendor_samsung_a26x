@@ -1398,10 +1398,6 @@ PRODUCT_PACKAGES += \
     com.android.hotwordenrollment.common.util \
     android.hardware.drm-service.clearkey_samsung \
     android.hardware.neuralnetworks-service-enn \
-    android.hardware.sensors@2.0-multihal \
-    android.hardware.wifi.hostapd \
-    android.hardware.wifi.supplicant \
-    android.hardware.wifi@1.0-service \
     bluetooth_audio \
     manifest_android.hardware.drm-service.widevine \
     power-samsung \
