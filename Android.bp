@@ -172,7 +172,7 @@ dex_import {
 prebuilt_etc_xml {
 	name: "android.hardware.drm-service.clearkey_samsung",
 	owner: "samsung",
-	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.drm-service.clearkey.xml",
+	src: "proprietary/vendor/etc/vintf/manifest/android.hardware.drm-service.clearkey_samsung.xml",
 	filename_from_src: true,
 	sub_dir: "vintf/manifest",
 	soc_specific: true,
