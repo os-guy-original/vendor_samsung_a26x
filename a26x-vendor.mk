@@ -7,7 +7,6 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/a26x/proprietary/recovery/ramdisk/vendor/firmware/ft3419_a26x.bin:$(TARGET_COPY_OUT_SYSTEM)/recovery/ramdisk/vendor/firmware/ft3419_a26x.bin \
-    vendor/samsung/a26x/proprietary/system_ext/apex/com.android.vndk.v33.apex:$(TARGET_COPY_OUT_SYSTEM_EXT)/apex/com.android.vndk.v33.apex \
     vendor/samsung/a26x/proprietary/system_ext/bin/hw/android.hidl.allocator@1.0-service:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/hw/android.hidl.allocator@1.0-service \
     vendor/samsung/a26x/proprietary/system_ext/bin/hwservicemanager:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/hwservicemanager \
     vendor/samsung/a26x/proprietary/system_ext/etc/build.prop:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/build.prop \
