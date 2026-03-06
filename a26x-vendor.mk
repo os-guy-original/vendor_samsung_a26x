@@ -7,15 +7,11 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/samsung/a26x/proprietary/recovery/ramdisk/vendor/firmware/ft3419_a26x.bin:$(TARGET_COPY_OUT_SYSTEM)/recovery/ramdisk/vendor/firmware/ft3419_a26x.bin \
-    vendor/samsung/a26x/proprietary/system_ext/bin/hw/android.hidl.allocator@1.0-service:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/hw/android.hidl.allocator@1.0-service \
-    vendor/samsung/a26x/proprietary/system_ext/bin/hwservicemanager:$(TARGET_COPY_OUT_SYSTEM_EXT)/bin/hwservicemanager \
     vendor/samsung/a26x/proprietary/system_ext/etc/build.prop:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/build.prop \
     vendor/samsung/a26x/proprietary/system_ext/etc/build_flags.json:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/build_flags.json \
     vendor/samsung/a26x/proprietary/system_ext/etc/fs_config_dirs:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/fs_config_dirs \
     vendor/samsung/a26x/proprietary/system_ext/etc/fs_config_files:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/fs_config_files \
     vendor/samsung/a26x/proprietary/system_ext/etc/group:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/group \
-    vendor/samsung/a26x/proprietary/system_ext/etc/init/android.hidl.allocator@1.0-service.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/android.hidl.allocator@1.0-service.rc \
-    vendor/samsung/a26x/proprietary/system_ext/etc/init/hwservicemanager.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/hwservicemanager.rc \
     vendor/samsung/a26x/proprietary/system_ext/etc/permissions/androidx.window.extensions.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/androidx.window.extensions.xml \
     vendor/samsung/a26x/proprietary/system_ext/etc/permissions/androidx.window.sidecar.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/androidx.window.sidecar.xml \
     vendor/samsung/a26x/proprietary/system_ext/etc/permissions/appfunctions.extension.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/appfunctions.extension.xml \
